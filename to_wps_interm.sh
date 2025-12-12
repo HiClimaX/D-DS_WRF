@@ -1,6 +1,6 @@
 #!/bin/bash
 
-output_dir=./wps_interim
+output_dir=./wps_interm
 mkdir -p "$output_dir"
 
 python to_wps_interm.py \

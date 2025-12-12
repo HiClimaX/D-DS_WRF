@@ -29,4 +29,4 @@ wget -cN -i urls.txt
 ./to_wps_interim.sh
 ```
 
-4. Run other WRF steps (`geogrid.exe`, `metgrid.exe`, `real.exe`, and `wrf.exe`) using the data in `wps_interim/`
+4. Run other WRF steps (`geogrid.exe`, `metgrid.exe`, `real.exe`, and `wrf.exe`) using the data in `wps_interm/`
